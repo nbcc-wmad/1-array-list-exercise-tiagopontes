@@ -16,5 +16,7 @@ namespace ArrayListSimpleEx
         {
             InitializeComponent();
         }
+
+       // test test test test
     }
 }
